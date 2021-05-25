@@ -1,3 +1,7 @@
+# Why this repo
+
+There is a need to accept request body size more than 1m and there was no way to set this setting. So I forked this repo and made the changes. I have to set it configurable in the future.
+
 # heroku-buildpack-static
 **NOTE**: This buildpack is in an experimental OSS project.
 
